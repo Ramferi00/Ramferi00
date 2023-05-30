@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-I am Ramferi, a Computer Systems Engineering student with a strong interest in technological development. I am dedicating myself to learning front-end web development, acquiring solid foundations and skills through personal projects.
+Hello, I'm Ramferi, a Computer Systems Engineering student with a strong interest in technological development. I am dedicating myself to learning front-end web development, acquiring solid foundations and skills through personal projects.
 
 Later on, I am interested in delving into the field of artificial intelligence, an area I consider to have enormous potential to transform many aspects of our daily lives.
 
